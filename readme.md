@@ -1,21 +1,21 @@
 
 # BoostNote Legacy
 
-BoostNote is an open-source note-taking app with cross-platform support and a range of features, designed for developer and places an emphasis on the ability to manager code-snippets, increasing your organization and productivity. 
+Boost note is an open-source application that allows developers to take notes and manage code snippets. This cross-platform app will increase your productivity and make organizing notes and code way easier! Give it a try!
 
 
 ## Features
+Some of the best features of this app include: 
 
-- **Code Snippet Management**: Store and manage your code snippets easily.
-- **Cross-Platform**: Runs on Windows, macOS, and Linux.
+- **Code Snippet Management**: Store and manage your code in an easy to view way. 
+- **Cross-Platform**: Runs on three different platforms: Windows, macOS, and Linux.
 - **Offline Mode**: No internet is needed to use the application.
-- **Customizable**: You can hoose different themes and personalize your workspace.
+- **Customizable**: You can choose different themes and personalize your workspace.
 
 ## Installation
 
-To get started with BoostNote Legacy, follow these installation instructions:
+Before we begin, you need the following **System Requirements** :
 
-### System Requirements
 
 - **Node.js**: v10 or higher
 - **npm**: v6 or higher
@@ -63,7 +63,7 @@ If you're new to BoostNote, follow these steps:
 3. Use folders and tags to structure your notes.
 4. Connect to the cloud for further organization.
 
-For more help, visit the [BoostNote Documentation](https://boostnote.io/docs).
+Visit the [BoostNote Documentation](https://boostnote.io/docs) for more information and help regarding BoostNote.Io!
 
 ## How to Contribute
 
@@ -82,5 +82,7 @@ We welcome contributions from the community! To get started:
 
 BoostNote is licensed under the [MIT License](https://github.com/BoostIO/BoostNote-Legacy/blob/master/LICENSE).
 
-```
+### Last but certainly not least...
+
+Have fun and keep coding!
 
